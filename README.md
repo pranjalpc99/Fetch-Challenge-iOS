@@ -1,6 +1,9 @@
 # Meals Recipe Challenge 
 The SwiftUI Meal App is a simple application that displays meal categories and their respective meals. Users can navigate through different meal categories such as Breakfast, Lunch, Dinner, and Dessert, and view details of each meal including its ingredients and instructions.
 
+## API Credits
+This app uses the [TheMealDB API](https://themealdb.com/api.php) to fetch meal data. TheMealDB provides an open database of meals and recipes that allows developers to easily access a vast collection of meal information, including ingredients, instructions, and images.
+
 ## Features
 - Display meal categories in a tab view
 - Fetch meals from an API based on selected category.
