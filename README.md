@@ -55,6 +55,8 @@ The SwiftUI Meal App is a simple application that displays meal categories and t
    Tap on any meal from the list to view its details, including the meal image, instructions, and ingredients.
 
 ## Assets
+
+### Main Tab View and Meal List View
 <table>
   <tr>
     <td align="center">
@@ -66,6 +68,22 @@ The SwiftUI Meal App is a simple application that displays meal categories and t
        <img src="images/image2.png" width="45%" />
        <br />
       <span>Main Tab View (Dark Theme)</span>
+    </td>
+  </tr>
+</table>
+
+### Meal Detail View
+<table>
+  <tr>
+    <td align="center">
+       <img src="images/video1.gif" width="45%" />
+       <br />
+      <span>Meal Detail View (Light Theme)</span>
+    </td>
+    <td  align="center">
+       <img src="images/video2.gif" width="45%" />
+       <br />
+      <span>Meal Detail View (Dark Theme)</span>
     </td>
   </tr>
 </table>
